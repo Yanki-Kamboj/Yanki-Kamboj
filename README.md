@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yanki
+# 👋 Hi, I'm Manish Kamboj
 
 ### 💻 Software Engineer | 🌐 Full-Stack Developer | 🧠 DSA
 
